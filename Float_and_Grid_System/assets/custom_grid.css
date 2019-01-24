@@ -1,0 +1,29 @@
+/* PUT FLUID GRID CODE HERE */
+
+h1, h2, ul {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+header, 
+aside, 
+section {
+  background: rgb(255, 200, 47);
+}
+
+h1 {
+  float: left;
+}
+
+.col2 {
+  float: left;
+  padding-right: 20px;
+}
